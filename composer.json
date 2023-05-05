@@ -1,0 +1,14 @@
+{
+    "require-dev": {
+        "kint-php/kint": "^5.0"
+    },
+    "require": {
+        "ezyang/htmlpurifier": "^4.16",
+        "sentry/sdk": "^3.3"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
